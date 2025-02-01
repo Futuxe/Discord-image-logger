@@ -1,5 +1,5 @@
-# 📸 Discord Image Logger [ARCHIVED]
- A V2 version with bugfixes, selfhosting capabilities, a better hosting platform, and more features will be coming soon!
+# 📸 Discord Image Logger
+ A V1.1 version with bugfixes, selfhosting capabilities, a better hosting platform, and more features will be coming soon!
 
 **Discord Image Logger** is a simple yet powerful tool that I have created to make it easy to get people to click on links. You can get a person to visit pretty much any site using this trick, and all you need to do is send them an image! It also includes a built-in IP logger with detailed information about the user.
 
