@@ -103,5 +103,5 @@ None at the moment!
 # 📜 Closing Statements
 
 Liked the project? I know you did! Support me, **drop a star!** <br>
-
+here my [Ko-fi link](https://ko-fi.com/rjewi) 
 Thank you for choosing my tools! 🙏
